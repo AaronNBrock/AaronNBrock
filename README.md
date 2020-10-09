@@ -1,4 +1,11 @@
-### Hello there, J 👋
+### Hello there 👋
+
+* 🌐 Learn more about me: [AaronNBrock.com](https://AaronNBrock.com/)
+* 📫 How to reach me: [Hello@AaronNBrock.com](mailto:Hello@AaronNBrock.com)
+* 💬 Ask me about: 
+    * The problem with the "as" in "Infrastructure as Code"
+    * Why WET development (Write Everything Twice) isn't a bad thing...
+* ⚡ Fun fact: I've memorized 200+ digits of π
 
 <!--
 **AaronNBrock/AaronNBrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
